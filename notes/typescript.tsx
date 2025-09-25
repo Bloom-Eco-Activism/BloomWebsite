@@ -10,7 +10,7 @@
 //let myName: string = "Marjorie"; // must be text
 //let age: number = 19;            // must be a number
 //let isStudent: boolean = true;   // must be true/false
-
+//vgtvgt5vbgt5
 //console.log("Name:", myName, "| Age:", age, "| Student?", isStudent);
 
 // Try this (will error in TS, but JS would allow it):

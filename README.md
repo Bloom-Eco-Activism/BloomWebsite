@@ -1,7 +1,7 @@
 # BloomWebsite
 
 This is Bloom, a full-stack website built around bringing together people with the same mission: participating in eco-activism initiatives and making our world a better place. 
-Our website was first prototyped on Figma for Gator User Design's 2025 Design-a-thon, where we were awarded Runner Ups for Best Design for Gators.
+Our website was first prototyped on Figma for Gator User Design's 2025 Design-a-thon, where we were awarded Runner Ups for Best Design for Gators in 2025.
 We were so passionate about the project that we decided to take a step further and turn our prototype into an actual full-stack website. 
 Our goal is to make it easier for anyone to discover environmental events, markets, and projects happening near them.
 
